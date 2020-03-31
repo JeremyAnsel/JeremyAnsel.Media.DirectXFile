@@ -1,0 +1,377 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/projects/jeremyansel-media-directxfile/JeremyAnsel.Media.DirectXFile/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimation.html",
+          "hash": "cLBz5j+z/HWKiq9MM0z7xg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationKey.html",
+          "hash": "CjT3GyWAGNDiPkmf55glQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationKeyType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationKeyType.html",
+          "hash": "C2UFqvY465lyOB2jjcvLYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationSet.html",
+          "hash": "lj3B2u+QmvXi3vlKz3N8kw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XColorRgb.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XColorRgb.html",
+          "hash": "wuk8Xq8lRjUvgUI9rguwxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XColorRgba.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XColorRgba.html",
+          "hash": "J/ZeWVrxGHTm0BTHlQcsYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XCoords2d.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XCoords2d.html",
+          "hash": "UndqAYSqSUhGkVi7YZuiuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XEffectInstance.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XEffectInstance.html",
+          "hash": "YCc8Md8LHiP8MVgpo1DEeQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFile.html",
+          "hash": "wT9SNyD0S6PaqjIVO6gKnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFormat.html",
+          "hash": "FTapfOwhuixo+23QJEPpYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XFrame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFrame.html",
+          "hash": "KYeZb0vziYVmY/rZRgQbzg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XFrameCamera.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFrameCamera.html",
+          "hash": "wGxfbaFkHBh65N92vqYeyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XMaterial.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XMaterial.html",
+          "hash": "ndDB8hPdgRqC1rQpKSDEGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XMatrix4x4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XMatrix4x4.html",
+          "hash": "LfcSw4gwX+JAJ/bkVRdEeg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XMesh.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XMesh.html",
+          "hash": "sXx3nmmXvZQ514pBEskqmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XSkinWeights.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XSkinWeights.html",
+          "hash": "sHtxUUpYCMJaZ/N6EP4Icw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XVector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVector.html",
+          "hash": "VVWIsMgIyp4bcp7bCj5u7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElement.html",
+          "hash": "q+va4N4FC+vG8OWPjw8rAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementDataType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementDataType.html",
+          "hash": "VY9D4nxf33Efk1r9SgXBEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementMethod.html",
+          "hash": "S7/uxOi7nVhO5W1yQ4/DOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementUsage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementUsage.html",
+          "hash": "8uZ4Jlt3g1R1l4R6F8Z0gQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.html",
+          "hash": "hr07w2ZrqgLiJu4xj8Rk+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "1KaBHKjcomoP45BxO7fZ+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "2LjTxu91uso0GuyJCPEs+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "YmFPGpcnaEMwe2nBeB7zDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "dCKQkpbbCbjoPspJUyfmhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 22,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
