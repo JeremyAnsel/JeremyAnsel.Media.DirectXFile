@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimation.html",
-          "hash": "cLBz5j+z/HWKiq9MM0z7xg=="
+          "hash": "npNr0d8nuSbp4uHtEEN444agp88D7Sr1eAsTAgM4gn8="
         }
       },
       "is_incremental": false,
@@ -30,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationKey.html",
-          "hash": "CjT3GyWAGNDiPkmf55glQQ=="
+          "hash": "FmZKjYX+9JvucKUbU7z1nlkaREMOxmNJaUxv99H3uW4="
         }
       },
       "is_incremental": false,
@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationKeyType.html",
-          "hash": "C2UFqvY465lyOB2jjcvLYQ=="
+          "hash": "diTjbxNsV3gXMUeUU+wncsybCB+71bgPZKicyMPc8Fo="
         }
       },
       "is_incremental": false,
@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationSet.html",
-          "hash": "lj3B2u+QmvXi3vlKz3N8kw=="
+          "hash": "jlet3xW0uBlXZcE6ZqIXf68x1r2hnKqea67p+LgBB8A="
         }
       },
       "is_incremental": false,
@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XColorRgb.html",
-          "hash": "wuk8Xq8lRjUvgUI9rguwxg=="
+          "hash": "4W8qDUZDLZgnvTe6b+O9E9U+wm1lmCTQhjbR826dL4Y="
         }
       },
       "is_incremental": false,
@@ -78,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XColorRgba.html",
-          "hash": "J/ZeWVrxGHTm0BTHlQcsYA=="
+          "hash": "BUZU7qQtKzp+nZvhVFMEKW0ia5xrbBvuDalLvS/B268="
         }
       },
       "is_incremental": false,
@@ -90,7 +90,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XCoords2d.html",
-          "hash": "UndqAYSqSUhGkVi7YZuiuA=="
+          "hash": "JFKeqNMkOCtEoLgJajZhgwDY1NI7PosM4Qv0LwSwz0E="
         }
       },
       "is_incremental": false,
@@ -102,7 +102,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XEffectInstance.html",
-          "hash": "YCc8Md8LHiP8MVgpo1DEeQ=="
+          "hash": "e5g3AdWsFLki1580fM6c43j23Iwuwi9Mg3P3F65CWd8="
         }
       },
       "is_incremental": false,
@@ -114,7 +114,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFile.html",
-          "hash": "wT9SNyD0S6PaqjIVO6gKnA=="
+          "hash": "vhqI4XBvj5C30HUlJGOE+TAzW+2QCitb+AaNqj/ISZM="
         }
       },
       "is_incremental": false,
@@ -126,7 +126,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFormat.html",
-          "hash": "FTapfOwhuixo+23QJEPpYw=="
+          "hash": "RnHnO0EjDnNnrR9yV8esSzW3oENlggivkoOP56Z6k4Y="
         }
       },
       "is_incremental": false,
@@ -138,7 +138,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFrame.html",
-          "hash": "KYeZb0vziYVmY/rZRgQbzg=="
+          "hash": "ZS0KssqPEcrcULv0CzTgplodgJsRCNa3fxMzzEnWML0="
         }
       },
       "is_incremental": false,
@@ -150,7 +150,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFrameCamera.html",
-          "hash": "wGxfbaFkHBh65N92vqYeyQ=="
+          "hash": "d8X7SUujLLQfNvxJaekcWvPn/ktrb/kvQ3O32VOzsMg="
         }
       },
       "is_incremental": false,
@@ -162,7 +162,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XMaterial.html",
-          "hash": "ndDB8hPdgRqC1rQpKSDEGA=="
+          "hash": "B6NSjFgXOaBg3J3SP7cqyNT9OAJmeJa9q7/yxy/bRLk="
         }
       },
       "is_incremental": false,
@@ -174,7 +174,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XMatrix4x4.html",
-          "hash": "LfcSw4gwX+JAJ/bkVRdEeg=="
+          "hash": "AoehIMqc5HXz4VTwoZZCBr647o6Yyecos+npGtXUqEc="
         }
       },
       "is_incremental": false,
@@ -186,7 +186,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XMesh.html",
-          "hash": "sXx3nmmXvZQ514pBEskqmw=="
+          "hash": "fwCXNPS9sAckkCOXfO+HzfAqQ0mUKnLcely3n4OTucs="
         }
       },
       "is_incremental": false,
@@ -198,7 +198,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XSkinWeights.html",
-          "hash": "sHtxUUpYCMJaZ/N6EP4Icw=="
+          "hash": "g5kXJKvATz9RnIKuSABsjd23U8Xxs5219NxEaJtpJdQ="
         }
       },
       "is_incremental": false,
@@ -210,7 +210,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVector.html",
-          "hash": "VVWIsMgIyp4bcp7bCj5u7w=="
+          "hash": "wCozrF2KdxWNOVMkROIExhr6iXE6k+6PBZNZEFTTGo8="
         }
       },
       "is_incremental": false,
@@ -222,7 +222,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElement.html",
-          "hash": "q+va4N4FC+vG8OWPjw8rAw=="
+          "hash": "v/HTny1esxP7Cv1aygPlXnxLcGRzrDht2TzjrGw9eQk="
         }
       },
       "is_incremental": false,
@@ -234,7 +234,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementDataType.html",
-          "hash": "VY9D4nxf33Efk1r9SgXBEg=="
+          "hash": "ohHBwFNVhT1r2dsy6I46nLn2urxn5KOQVpENEQ1mTyA="
         }
       },
       "is_incremental": false,
@@ -246,7 +246,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementMethod.html",
-          "hash": "S7/uxOi7nVhO5W1yQ4/DOA=="
+          "hash": "KvVfy8yAST8qDgdOjNCsHAe03rax+nDYfl1eqzz9y0s="
         }
       },
       "is_incremental": false,
@@ -258,7 +258,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementUsage.html",
-          "hash": "8uZ4Jlt3g1R1l4R6F8Z0gQ=="
+          "hash": "vKTsZp3ChIxqK1/3SuOY+UhLkPrxf6G9oEz/rgT5I+0="
         }
       },
       "is_incremental": false,
@@ -270,7 +270,7 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.html",
-          "hash": "hr07w2ZrqgLiJu4xj8Rk+g=="
+          "hash": "m02svxwGjJuFU5igq+VGgQSnvR5SwzWZwiY3HgFQsIk="
         }
       },
       "is_incremental": false,
@@ -282,19 +282,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "1KaBHKjcomoP45BxO7fZ+A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "api/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/toc.html",
-          "hash": "2LjTxu91uso0GuyJCPEs+Q=="
+          "hash": "LUo8Ih1b423ZQUVXbws6FDTOkcSTd+BEUZkCDpoVaE8="
         }
       },
       "is_incremental": false,
@@ -306,19 +294,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "YmFPGpcnaEMwe2nBeB7zDw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "toc.html",
-          "hash": "dCKQkpbbCbjoPspJUyfmhw=="
+          "hash": "krXumCZesu0ZOuUQfRb7BhKBbx4jc9LrOLw/TAGHoX8="
         }
       },
       "is_incremental": false,
