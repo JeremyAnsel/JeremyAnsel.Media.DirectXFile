@@ -528,11 +528,14 @@ references:
   fullName: JeremyAnsel.Media.DirectXFile.XFile.Frames
   nameWithType: XFile.Frames
 - uid: JeremyAnsel.Media.DirectXFile.XFile.FromFile(System.String)
-  name: FromFile(String)
+  name: FromFile(string)
   href: api/JeremyAnsel.Media.DirectXFile.XFile.html#JeremyAnsel_Media_DirectXFile_XFile_FromFile_System_String_
   commentId: M:JeremyAnsel.Media.DirectXFile.XFile.FromFile(System.String)
-  fullName: JeremyAnsel.Media.DirectXFile.XFile.FromFile(System.String)
-  nameWithType: XFile.FromFile(String)
+  name.vb: FromFile(String)
+  fullName: JeremyAnsel.Media.DirectXFile.XFile.FromFile(string)
+  fullName.vb: JeremyAnsel.Media.DirectXFile.XFile.FromFile(String)
+  nameWithType: XFile.FromFile(string)
+  nameWithType.vb: XFile.FromFile(String)
 - uid: JeremyAnsel.Media.DirectXFile.XFile.FromFile*
   name: FromFile
   href: api/JeremyAnsel.Media.DirectXFile.XFile.html#JeremyAnsel_Media_DirectXFile_XFile_FromFile_
@@ -554,11 +557,14 @@ references:
   fullName: JeremyAnsel.Media.DirectXFile.XFile.FromStream
   nameWithType: XFile.FromStream
 - uid: JeremyAnsel.Media.DirectXFile.XFile.GenerateTextFromFile(System.String)
-  name: GenerateTextFromFile(String)
+  name: GenerateTextFromFile(string)
   href: api/JeremyAnsel.Media.DirectXFile.XFile.html#JeremyAnsel_Media_DirectXFile_XFile_GenerateTextFromFile_System_String_
   commentId: M:JeremyAnsel.Media.DirectXFile.XFile.GenerateTextFromFile(System.String)
-  fullName: JeremyAnsel.Media.DirectXFile.XFile.GenerateTextFromFile(System.String)
-  nameWithType: XFile.GenerateTextFromFile(String)
+  name.vb: GenerateTextFromFile(String)
+  fullName: JeremyAnsel.Media.DirectXFile.XFile.GenerateTextFromFile(string)
+  fullName.vb: JeremyAnsel.Media.DirectXFile.XFile.GenerateTextFromFile(String)
+  nameWithType: XFile.GenerateTextFromFile(string)
+  nameWithType.vb: XFile.GenerateTextFromFile(String)
 - uid: JeremyAnsel.Media.DirectXFile.XFile.GenerateTextFromFile*
   name: GenerateTextFromFile
   href: api/JeremyAnsel.Media.DirectXFile.XFile.html#JeremyAnsel_Media_DirectXFile_XFile_GenerateTextFromFile_

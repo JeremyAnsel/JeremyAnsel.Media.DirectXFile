@@ -9,8 +9,7 @@
         "resource": {
           "relative_path": "index.json"
         }
-      },
-      "is_incremental": false
+      }
     },
     {
       "type": "ManagedReference",
@@ -18,10 +17,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimation.html",
-          "hash": "npNr0d8nuSbp4uHtEEN444agp88D7Sr1eAsTAgM4gn8="
+          "hash": "8EB+SK2HR28eiEBvBdfDn9Gkt6Yj0i4qgWDbKQUqtSI="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -30,10 +28,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationKey.html",
-          "hash": "FmZKjYX+9JvucKUbU7z1nlkaREMOxmNJaUxv99H3uW4="
+          "hash": "YJItOxuYXzBO8M6LEzuHsY1ToPAbZMMLIQgpXABdjY0="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -42,10 +39,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationKeyType.html",
-          "hash": "diTjbxNsV3gXMUeUU+wncsybCB+71bgPZKicyMPc8Fo="
+          "hash": "CdFPWyvyjmvVwRlGPHTPTQJCbK0Y+lQeT8n3BZsxkqU="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -54,10 +50,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationSet.html",
-          "hash": "jlet3xW0uBlXZcE6ZqIXf68x1r2hnKqea67p+LgBB8A="
+          "hash": "r6EZIoi4zFp4IVfmhFj2/Soo9xSrO9n0hlzn8nai3VU="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -66,10 +61,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XColorRgb.html",
-          "hash": "4W8qDUZDLZgnvTe6b+O9E9U+wm1lmCTQhjbR826dL4Y="
+          "hash": "NSqtD41o5BH4gQQn3Nnk+mhPqAQdYYqqd11Sir6mi7I="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -78,10 +72,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XColorRgba.html",
-          "hash": "BUZU7qQtKzp+nZvhVFMEKW0ia5xrbBvuDalLvS/B268="
+          "hash": "bSDfePF1mI211aOAoqMI8Xw4RBJaulAWr4fpaLaRzXw="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -90,10 +83,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XCoords2d.html",
-          "hash": "JFKeqNMkOCtEoLgJajZhgwDY1NI7PosM4Qv0LwSwz0E="
+          "hash": "oXs5ZfuiL1t2lOE33/gboaWVquKm+SKAjos+YrRmC8I="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -102,10 +94,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XEffectInstance.html",
-          "hash": "e5g3AdWsFLki1580fM6c43j23Iwuwi9Mg3P3F65CWd8="
+          "hash": "gWBTytBooIvQeu8huoyVEUrLELt7bEkUzu/G0iLprks="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -114,10 +105,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFile.html",
-          "hash": "vhqI4XBvj5C30HUlJGOE+TAzW+2QCitb+AaNqj/ISZM="
+          "hash": "JjtD1oLIhfyq4MsJoquv8g5RJkcMyYMneOSQtwsiT+k="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -126,10 +116,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFormat.html",
-          "hash": "RnHnO0EjDnNnrR9yV8esSzW3oENlggivkoOP56Z6k4Y="
+          "hash": "I4esDuY1zxPigTgC40JXuShaxlbtobiehloRXj/Cm9o="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -138,10 +127,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFrame.html",
-          "hash": "ZS0KssqPEcrcULv0CzTgplodgJsRCNa3fxMzzEnWML0="
+          "hash": "pox8kBMGh6yoEk/Ni6UBU+lIuZyLnGzDhEs9kFlMWN4="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -150,10 +138,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFrameCamera.html",
-          "hash": "d8X7SUujLLQfNvxJaekcWvPn/ktrb/kvQ3O32VOzsMg="
+          "hash": "nlHAjLwfwjGue/qMIIOo/R74upIeZ1HLLCB5GxmENNM="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -162,10 +149,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XMaterial.html",
-          "hash": "B6NSjFgXOaBg3J3SP7cqyNT9OAJmeJa9q7/yxy/bRLk="
+          "hash": "p/6oPSFLQ6dWueYaHlOj7GlFTLMjlwkHhIksZUSdRhE="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -174,10 +160,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XMatrix4x4.html",
-          "hash": "AoehIMqc5HXz4VTwoZZCBr647o6Yyecos+npGtXUqEc="
+          "hash": "OUJ4GjmBgGTcXl4ZG29lqeUMzzfDXsi53dXbDWAYtgM="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -186,10 +171,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XMesh.html",
-          "hash": "fwCXNPS9sAckkCOXfO+HzfAqQ0mUKnLcely3n4OTucs="
+          "hash": "MS2RfMyNIztWHhtIRCAT4KMK/p/Um/JuxzDaDhT6JkU="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -198,10 +182,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XSkinWeights.html",
-          "hash": "g5kXJKvATz9RnIKuSABsjd23U8Xxs5219NxEaJtpJdQ="
+          "hash": "X5LubEHz+al4PZfQc7+sxRtYhgWQgcRDRgCJk0nNCtI="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -210,10 +193,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVector.html",
-          "hash": "wCozrF2KdxWNOVMkROIExhr6iXE6k+6PBZNZEFTTGo8="
+          "hash": "oJBodhgcRZ/XXOxQ3CiSw5BLdFF8BJ+NgKdsWo9jLCs="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -222,10 +204,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElement.html",
-          "hash": "v/HTny1esxP7Cv1aygPlXnxLcGRzrDht2TzjrGw9eQk="
+          "hash": "6nKvWOlwnJS3yM5y5Qt5kTJwSVE2DQVfU8B/+aelHXk="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -234,10 +215,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementDataType.html",
-          "hash": "ohHBwFNVhT1r2dsy6I46nLn2urxn5KOQVpENEQ1mTyA="
+          "hash": "zbbyPYhiB94J2DiUCWcGMJWCiKjLECWGw1oNiU7lBSM="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -246,10 +226,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementMethod.html",
-          "hash": "KvVfy8yAST8qDgdOjNCsHAe03rax+nDYfl1eqzz9y0s="
+          "hash": "7LPmxC+TlFcBb7XprabuvqYsOqTVR3OgshKYkaAkNZg="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -258,10 +237,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementUsage.html",
-          "hash": "vKTsZp3ChIxqK1/3SuOY+UhLkPrxf6G9oEz/rgT5I+0="
+          "hash": "h88GZygZXo4VX9GnGJLl17ZoE0g7QYIPSwoVk+gXUAM="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -270,10 +248,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Media.DirectXFile.html",
-          "hash": "m02svxwGjJuFU5igq+VGgQSnvR5SwzWZwiY3HgFQsIk="
+          "hash": "BqwHKWhtegtNk+GgURT0JlfJqoYepVw/gp9ZkiekDi0="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -282,10 +259,9 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "LUo8Ih1b423ZQUVXbws6FDTOkcSTd+BEUZkCDpoVaE8="
+          "hash": "4K6GSN5A+XqlsHnBApUDMHuU/je6e+OrbyCLbDrdqt4="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -294,54 +270,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "krXumCZesu0ZOuUQfRb7BhKBbx4jc9LrOLw/TAGHoX8="
+          "hash": "A2CGbgctN8arSS+6SG/NL7I2PsuKxZ/H4yDJgoW2low="
         }
       },
-      "is_incremental": false,
       "version": ""
-    }
-  ],
-  "incremental_info": [
-    {
-      "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because last build info is missing.",
-        "incrementalPhase": "build",
-        "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "NoAvailableBuildCache"
-      },
-      "processors": {
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 2,
-          "skipped_file_count": 0
-        },
-        "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 22,
-          "skipped_file_count": 0
-        },
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
-        }
-      }
-    },
-    {
-      "status": {
-        "can_incremental": false,
-        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
-        "incrementalPhase": "postProcessing",
-        "total_file_count": 0,
-        "skipped_file_count": 0
-      },
-      "processors": {}
     }
   ],
   "version_info": {},
