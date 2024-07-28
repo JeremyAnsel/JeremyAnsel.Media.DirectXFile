@@ -13,3 +13,9 @@ Documentation   | http://jeremyansel.github.io/JeremyAnsel.Media.DirectXFile
 Source code     | https://github.com/JeremyAnsel/JeremyAnsel.Media.DirectXFile
 Nuget           | https://www.nuget.org/packages/JeremyAnsel.Media.DirectXFile
 Build           | https://ci.appveyor.com/project/JeremyAnsel/jeremyansel-media-directxfile/branch/master
+
+# Usage
+
+```csharp
+XFile file = XFile.FromFile(fileName);
+```
