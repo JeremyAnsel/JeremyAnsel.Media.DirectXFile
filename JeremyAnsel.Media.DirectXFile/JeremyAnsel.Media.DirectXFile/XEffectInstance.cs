@@ -8,9 +8,9 @@ namespace JeremyAnsel.Media.DirectXFile
 {
     public sealed class XEffectInstance
     {
-        public string Name { get; set; }
+        public string Name { get; set; } = string.Empty;
 
-        public string EffectFilename { get; set; }
+        public string EffectFilename { get; set; } = string.Empty;
 
         public List<Tuple<string, int>> IntegerParameters { get; } = new List<Tuple<string, int>>();
 

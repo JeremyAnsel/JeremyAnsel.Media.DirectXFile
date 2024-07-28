@@ -13,8 +13,8 @@ namespace JeremyAnsel.Media.DirectXFile
         private bool isNextTokenRead;
         private readonly bool useDouble;
 
-        private List<int> intList;
-        private List<float> floatList;
+        private List<int>? intList;
+        private List<float>? floatList;
         private int listIndex;
 
         public XFileBinaryReader(BinaryReader reader, bool useDouble)
@@ -245,7 +245,7 @@ namespace JeremyAnsel.Media.DirectXFile
 
             int value;
 
-            if (this.intList.Count == 0)
+            if (this.intList!.Count == 0)
             {
                 value = this.ReadInteger();
             }
@@ -306,7 +306,7 @@ namespace JeremyAnsel.Media.DirectXFile
                 this.floatList = this.ReadFloatList();
             }
 
-            float value = this.floatList[this.listIndex++];
+            float value = this.floatList![this.listIndex++];
 
             if (this.listIndex == this.floatList.Count)
             {

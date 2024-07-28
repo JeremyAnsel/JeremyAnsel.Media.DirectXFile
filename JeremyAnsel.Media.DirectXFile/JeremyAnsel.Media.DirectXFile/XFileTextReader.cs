@@ -14,7 +14,7 @@ namespace JeremyAnsel.Media.DirectXFile
         private bool isNextTokenRead;
         private readonly bool useDouble;
 
-        private string currentString;
+        private string currentString = string.Empty;
         private bool isInStringReading;
 
         public XFileTextReader(StreamReader reader, bool useDouble)

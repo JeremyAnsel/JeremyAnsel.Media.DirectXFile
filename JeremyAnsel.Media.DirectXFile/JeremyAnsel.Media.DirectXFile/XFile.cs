@@ -10,13 +10,13 @@ namespace JeremyAnsel.Media.DirectXFile
 {
     public sealed class XFile
     {
-        public Version FormatVersion { get; private set; }
+        public Version? FormatVersion { get; private set; }
 
         public XFormat Format { get; private set; }
 
         public bool UseDouble { get; private set; }
 
-        public Version FileVersion { get; set; }
+        public Version? FileVersion { get; set; }
 
         public int FileFlags { get; set; }
 

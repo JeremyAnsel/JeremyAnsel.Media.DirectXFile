@@ -9,7 +9,7 @@ namespace JeremyAnsel.Media.DirectXFile
 {
     public sealed class XMesh
     {
-        public string Name { get; set; }
+        public string Name { get; set; } = string.Empty;
 
         public List<XVector> Vertices { get; } = new List<XVector>();
 
@@ -28,7 +28,7 @@ namespace JeremyAnsel.Media.DirectXFile
         public int OriginalVerticesCount { get; set; }
 
         [SuppressMessage("Performance", "CA1819:Les propriétés ne doivent pas retourner de tableaux", Justification = "Reviewed.")]
-        public int[] VertexDuplicationIndices { get; set; }
+        public int[]? VertexDuplicationIndices { get; set; }
 
         public List<Tuple<int, XColorRgba>> VertexColors { get; } = new List<Tuple<int, XColorRgba>>();
 
@@ -47,7 +47,7 @@ namespace JeremyAnsel.Media.DirectXFile
         public List<XVertexElement> VertexElements { get; } = new List<XVertexElement>();
 
         [SuppressMessage("Performance", "CA1819:Les propriétés ne doivent pas retourner de tableaux", Justification = "Reviewed.")]
-        public uint[] VertexElementsData { get; set; }
+        public uint[]? VertexElementsData { get; set; }
 
         public override string ToString()
         {

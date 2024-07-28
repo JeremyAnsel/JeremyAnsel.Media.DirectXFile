@@ -8,7 +8,7 @@ namespace JeremyAnsel.Media.DirectXFile
 {
     public sealed class XAnimationSet
     {
-        public string Name { get; set; }
+        public string Name { get; set; } = string.Empty;
 
         public List<XAnimation> Animations { get; } = new List<XAnimation>();
 
