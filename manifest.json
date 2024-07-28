@@ -1,5 +1,4 @@
 {
-  "homepages": [],
   "source_base_path": "C:/projects/jeremyansel-media-directxfile/JeremyAnsel.Media.DirectXFile/Documentation",
   "xrefmap": "xrefmap.yml",
   "files": [
@@ -16,8 +15,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimation.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimation.html",
-          "hash": "8EB+SK2HR28eiEBvBdfDn9Gkt6Yj0i4qgWDbKQUqtSI="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimation.html"
         }
       },
       "version": ""
@@ -27,8 +25,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationKey.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationKey.html",
-          "hash": "YJItOxuYXzBO8M6LEzuHsY1ToPAbZMMLIQgpXABdjY0="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationKey.html"
         }
       },
       "version": ""
@@ -38,8 +35,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationKeyType.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationKeyType.html",
-          "hash": "CdFPWyvyjmvVwRlGPHTPTQJCbK0Y+lQeT8n3BZsxkqU="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationKeyType.html"
         }
       },
       "version": ""
@@ -49,8 +45,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationSet.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationSet.html",
-          "hash": "r6EZIoi4zFp4IVfmhFj2/Soo9xSrO9n0hlzn8nai3VU="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XAnimationSet.html"
         }
       },
       "version": ""
@@ -60,8 +55,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XColorRgb.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XColorRgb.html",
-          "hash": "NSqtD41o5BH4gQQn3Nnk+mhPqAQdYYqqd11Sir6mi7I="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XColorRgb.html"
         }
       },
       "version": ""
@@ -71,8 +65,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XColorRgba.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XColorRgba.html",
-          "hash": "bSDfePF1mI211aOAoqMI8Xw4RBJaulAWr4fpaLaRzXw="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XColorRgba.html"
         }
       },
       "version": ""
@@ -82,8 +75,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XCoords2d.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XCoords2d.html",
-          "hash": "oXs5ZfuiL1t2lOE33/gboaWVquKm+SKAjos+YrRmC8I="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XCoords2d.html"
         }
       },
       "version": ""
@@ -93,8 +85,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XEffectInstance.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XEffectInstance.html",
-          "hash": "gWBTytBooIvQeu8huoyVEUrLELt7bEkUzu/G0iLprks="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XEffectInstance.html"
         }
       },
       "version": ""
@@ -104,8 +95,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XFile.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFile.html",
-          "hash": "JjtD1oLIhfyq4MsJoquv8g5RJkcMyYMneOSQtwsiT+k="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFile.html"
         }
       },
       "version": ""
@@ -115,8 +105,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XFormat.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFormat.html",
-          "hash": "I4esDuY1zxPigTgC40JXuShaxlbtobiehloRXj/Cm9o="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFormat.html"
         }
       },
       "version": ""
@@ -126,8 +115,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XFrame.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFrame.html",
-          "hash": "pox8kBMGh6yoEk/Ni6UBU+lIuZyLnGzDhEs9kFlMWN4="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFrame.html"
         }
       },
       "version": ""
@@ -137,8 +125,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XFrameCamera.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFrameCamera.html",
-          "hash": "nlHAjLwfwjGue/qMIIOo/R74upIeZ1HLLCB5GxmENNM="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XFrameCamera.html"
         }
       },
       "version": ""
@@ -148,8 +135,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XMaterial.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XMaterial.html",
-          "hash": "p/6oPSFLQ6dWueYaHlOj7GlFTLMjlwkHhIksZUSdRhE="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XMaterial.html"
         }
       },
       "version": ""
@@ -159,8 +145,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XMatrix4x4.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XMatrix4x4.html",
-          "hash": "OUJ4GjmBgGTcXl4ZG29lqeUMzzfDXsi53dXbDWAYtgM="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XMatrix4x4.html"
         }
       },
       "version": ""
@@ -170,8 +155,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XMesh.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XMesh.html",
-          "hash": "MS2RfMyNIztWHhtIRCAT4KMK/p/Um/JuxzDaDhT6JkU="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XMesh.html"
         }
       },
       "version": ""
@@ -181,8 +165,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XSkinWeights.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XSkinWeights.html",
-          "hash": "X5LubEHz+al4PZfQc7+sxRtYhgWQgcRDRgCJk0nNCtI="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XSkinWeights.html"
         }
       },
       "version": ""
@@ -192,8 +175,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XVector.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVector.html",
-          "hash": "oJBodhgcRZ/XXOxQ3CiSw5BLdFF8BJ+NgKdsWo9jLCs="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVector.html"
         }
       },
       "version": ""
@@ -203,8 +185,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElement.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElement.html",
-          "hash": "6nKvWOlwnJS3yM5y5Qt5kTJwSVE2DQVfU8B/+aelHXk="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElement.html"
         }
       },
       "version": ""
@@ -214,8 +195,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementDataType.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementDataType.html",
-          "hash": "zbbyPYhiB94J2DiUCWcGMJWCiKjLECWGw1oNiU7lBSM="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementDataType.html"
         }
       },
       "version": ""
@@ -225,8 +205,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementMethod.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementMethod.html",
-          "hash": "7LPmxC+TlFcBb7XprabuvqYsOqTVR3OgshKYkaAkNZg="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementMethod.html"
         }
       },
       "version": ""
@@ -236,8 +215,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementUsage.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementUsage.html",
-          "hash": "h88GZygZXo4VX9GnGJLl17ZoE0g7QYIPSwoVk+gXUAM="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.XVertexElementUsage.html"
         }
       },
       "version": ""
@@ -247,8 +225,7 @@
       "source_relative_path": "api/JeremyAnsel.Media.DirectXFile.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Media.DirectXFile.html",
-          "hash": "BqwHKWhtegtNk+GgURT0JlfJqoYepVw/gp9ZkiekDi0="
+          "relative_path": "api/JeremyAnsel.Media.DirectXFile.html"
         }
       },
       "version": ""
@@ -258,8 +235,17 @@
       "source_relative_path": "api/index.md",
       "output": {
         ".html": {
-          "relative_path": "api/index.html",
-          "hash": "4K6GSN5A+XqlsHnBApUDMHuU/je6e+OrbyCLbDrdqt4="
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "api/toc.json"
         }
       },
       "version": ""
@@ -269,14 +255,22 @@
       "source_relative_path": "index.md",
       "output": {
         ".html": {
-          "relative_path": "index.html",
-          "hash": "A2CGbgctN8arSS+6SG/NL7I2PsuKxZ/H4yDJgoW2low="
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "toc.json"
         }
       },
       "version": ""
     }
   ],
-  "version_info": {},
   "groups": [
     {
       "xrefmap": "xrefmap.yml"
